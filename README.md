@@ -3,7 +3,7 @@
   <h3>Full Stack Developer | Problem Solver</h3> 
 </div>
 
-📧 stavco28@gmail.com | ☎ 052-6909629 | 💼 linkedin.com/in/stavco | 💻 github.com/stavinyo
+📧 stavco28@gmail.com | ☎ 052-6909629 | 💼 linkedin.com/in/stavco
 
 🔍 Seeking Full Stack/Front End position | GPA: 85 | B.Sc. in Information Systems
 
