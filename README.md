@@ -5,7 +5,7 @@
 <h4> 📧 stavco28@gmail.com | ☎ 052-6909629 | 💼 linkedin.com/in/stavco </h4>
 </div>
 
-<div align="center">
+<div >
     <h2 >About Me</h2>
 </div>
   
