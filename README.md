@@ -8,14 +8,12 @@
 <div align="center">
     <h2 >About Me</h2>
 </div>
-
-<div align="left" display="inline-block">
   
 🔍 Seeking Full Stack/Front End position | GPA: 85 | B.Sc. in Information Systems
 
 🎓 Full-Stack Bootcamp: Vanilla.js, React.js, Node.js, SQL, APIs, Git | 700 hrs hands-on
 
-🛠️ Experienced in JavaScript, SQL, Firebase, React.js, Node.js, HTML, CSS, PHP
+🛠️ Experienced in JavaScript, SQL, Firebase, React.js, Node.js, HTML, CSS
 
 🚀 Internship: Developed admin panel in Retool, optimizing app management at FITTER Company.
 
@@ -26,4 +24,4 @@
 💬 Languages: Hebrew (Native), English (Very Good)
 
 Let's connect and innovate together!
-</div>
+
