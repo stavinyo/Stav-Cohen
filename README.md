@@ -2,7 +2,7 @@
   <h1 >Stav Cohen</h1>
   <h3>Full Stack Developer | Problem Solver</h3> 
 
-<h4> 📧 stavco28@gmail.com | ☎ 052-6909629 | 💼 linkedin.com/in/stavco </h4>
+<h4> 📧 stavco28@gmail.com | ☎ 052-6909629</h4>
 </div>
 
 <div >
