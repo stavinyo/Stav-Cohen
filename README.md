@@ -1,6 +1,6 @@
 # Stav Cohen #
 
-<h3 style = "text-align: center">Stav Cohen | Full Stack Developer | Problem Solver | Passionate Learner</h3> 
+<h3>Stav Cohen | Full Stack Developer | Problem Solver | Passionate Learner</h3> 
 
 📧 stavco28@gmail.com | ☎ 052-6909629 | 💼 linkedin.com/in/stavco | 💻 github.com/stavinyo
 
