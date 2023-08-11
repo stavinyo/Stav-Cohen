@@ -1,6 +1,6 @@
 # Stav Cohen #
 
-<h3>Stav Cohen | Full Stack Developer | Problem Solver | Passionate Learner</h3> 
+<h3 style = "text-align: center">Stav Cohen | Full Stack Developer | Problem Solver | Passionate Learner</h3> 
 
 📧 stavco28@gmail.com | ☎ 052-6909629 | 💼 linkedin.com/in/stavco | 💻 github.com/stavinyo
 
@@ -10,11 +10,11 @@
 
 🚀 Internship: Developed admin panel in Retool, optimizing app management at FITTER Company.
 
-💡 Personal Projects: Secondhand Store, Minesweeper Game, ShoesMe-Website
+💡 Personal Projects: Secondhand Store, Minesweeper Game, ShoesMe-Website, and more 
 
 🎓 Full-Stack Bootcamp: Vanilla.js, React.js, Node.js, SQL, APIs, Git | 700 hrs hands-on
 
-🏅 Military: Led 50 soldiers, honed leadership and effective management skills.
+🏅 Military: Led 50 soldiers, honed leadership and practical management skills.
 
 💬 Languages: Hebrew (Native), English (Very Good)
 
