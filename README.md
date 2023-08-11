@@ -9,7 +9,7 @@
     <h2 >About Me</h2>
 </div>
 
-<div align="center" display="inline-block">
+<div align="left" display="inline-block">
   
 🔍 Seeking Full Stack/Front End position | GPA: 85 | B.Sc. in Information Systems
 
