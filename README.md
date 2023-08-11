@@ -8,7 +8,8 @@
 <div align="center">
     <h2 >About Me</h2>
 </div>
-
+<div>
+  
 🔍 Seeking Full Stack/Front End position | GPA: 85 | B.Sc. in Information Systems
 
 🎓 Full-Stack Bootcamp: Vanilla.js, React.js, Node.js, SQL, APIs, Git | 700 hrs hands-on
@@ -24,3 +25,4 @@
 💬 Languages: Hebrew (Native), English (Very Good)
 
 Let's connect and innovate together!
+</div>
