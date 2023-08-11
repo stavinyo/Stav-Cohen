@@ -1,4 +1,4 @@
-# Stav Cohen #
+<h1 align="center">Stav Cohen</h1>
 
 <h3>Stav Cohen | Full Stack Developer | Problem Solver | Passionate Learner</h3> 
 
