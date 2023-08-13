@@ -11,7 +11,7 @@
   
 🔍 Seeking Full Stack/Front End position | GPA: 85 | B.Sc. in Information Systems
 
-🎓 Full-Stack Bootcamp: Vanilla.js, SQL, APIs, Git |  hands-on
+🎓 Full-Stack Bootcamp: Vanilla.js, React.js, Node.js, SQL, APIs, Git | Present - Nov 23
 
 🛠️ Experienced in JavaScript, SQL, Firebase, HTML, CSS
 
