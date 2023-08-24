@@ -23,5 +23,3 @@
 
 💬 Languages: Hebrew (Native), English (Very Good)
 
-Let's connect and innovate together!
-
